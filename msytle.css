@@ -1,0 +1,128 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+
+}
+
+body {
+  min-height: 100vh;
+  background-color: hsl(47,88%,63%);
+  font-family: "Figtree", sans-serif;
+  
+  
+}
+
+.page {
+ min-height: 100vh;
+display: flex;
+flex-direction: column;
+gap: 1.5rem;
+align-items: center;
+justify-content: center;
+padding: 1.5rem;
+  
+}
+
+.card {
+  
+  background-color: #fff;
+  border: 1px solid hsl(0,0%,7%);
+    border-radius: 1.2rem;
+  paddingL:1.5rem;
+  max-width: 21.25rem;
+  box-shadow: 10px 10px 0 hsl(0, 0%,7%);
+  overflow: hidden;
+}
+
+.card__image {
+  width: 18.75rem;
+  margin: 1rem;
+  border-radius: 0.95rem;
+  display: block;
+  margin-bottom: 0rem;
+}
+.card__avatar {
+  
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  display:block;
+  margin-bottom: 0.5rem
+}
+
+.card__tag {
+display: inline-block;
+background-color: hsl(47, 88%, 63%);
+color: hsl(0, 0%, 7%);
+font-weight: 800;
+font-size: 0.75rem;
+border-radius: 9999px;
+margin-bottom: 1rem;
+margin-top: 0rem;
+  
+  
+  
+}
+
+.card__date {
+  
+  font-size: 0.75rem;
+
+    margin-bottom:1rem;
+}
+
+.card__title {
+  
+  font-size: 1.1rem;
+  cursor: pointer;
+  margin-bottom: 1rem;
+  text-align: c
+
+}
+
+.card__title:hover {
+  color: hsl(47,88%,63%);
+}
+
+
+.card__text {
+  
+  font-size: 0.8rem;
+  line-height: 1.2;
+  
+}
+
+.card__content {
+  
+  padding: 1.5rem;
+  
+}
+
+.author__card {
+  
+  padding-left: 1rem;
+  display:flex;
+  align-items: center;
+  gap: 0.5rem;
+  
+}
+
+.card__name {
+  
+  font-size: 0.7rem;
+  font-weight: 500;
+  font-family: 'Google Sans Code', sans-serif;
+  
+}
+
+.attribution {
+  
+  font-size: 0.7rem;
+  
+  
+}
+
+.attribution a {
+  color: hsl(0,0%,7%);
+}
