@@ -8,6 +8,6 @@ proper use for rem; with padding & font-size.
 used new color system: hsl(0,0%,7%);
 installed new fonts from Google fonts.
 Installed git on VS Code, used it properly with GitHub, uploaded my first projects +README.
-
+used BEM "car__tag" for the first time
 *notes for future:
 learn more about Spacing & Keep practicing!
