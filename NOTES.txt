@@ -1,0 +1,13 @@
+*LEARNINGS*
+
+Getting better at structure understanding.
+understood & used new elements: 
+-margin-bottom.
+-padding-left.
+proper use for rem; with padding & font-size.
+used new color system: hsl(0,0%,7%);
+installed new fonts from Google fonts.
+Installed git on VS Code, used it properly with GitHub, uploaded my first projects +README.
+
+*notes for future:
+learn more about Spacing & Keep practicing!
